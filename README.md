@@ -1,6 +1,4 @@
-<p align="center">
-	<h1>A Field of Flowers</h1>
-</p>
+<h1 align="center">A Field of Flowers</h1>
 
 <p align="center">
 	<a href="https://ldjam.com/events/ludum-dare/45/a-field-of-flowers">Compo Game entry for Ludum Dare 45</a>
